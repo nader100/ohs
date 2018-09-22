@@ -1,1 +1,20 @@
+HTML
 
+HTML notes
+
+1.HTML is the stracture of a website
+
+2. HTML is made up tags: 
+example: <head> this is the begining of the tags </head> this is the end of the tags 
+
+3.<!DOCTYPE HTML> : tells the computer the landuage is HTML
+    <html>
+      <head>
+        <title>nader</title>
+      </head>
+      <body>
+        <h1>kimo</h1>
+        <p>nader</p>
+        
+      </body>
+      </html>
