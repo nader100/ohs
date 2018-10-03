@@ -18,3 +18,33 @@ example: <head> this is the begining of the tags </head> this is the end of the 
         
       </body>
     </html>
+
+                                    10/3/18 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+1-heading
+ <h1>text</h1>
+ <h2></h2>
+ 
+ 2-paragraphs
+  <p>text</p>
+  <p></p>
+  
+  3-buttons
+  <button>text</button>
+  <button></button>
+  
+  4-lists
+   <ul>
+    <li></li> This is for the list with out numbers 
+    <li></li>
+   </ul>
+   
+   <ol>
+   <li></li>    This is for numbers
+   </ol>
+   
+   5-links
+    <a href="the link">name</a>
+    
+    6-images
+    <img src="imgage" alt="image" wight="number" hight="number">
